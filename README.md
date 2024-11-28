@@ -15,12 +15,9 @@ I'm a Robotics Master's student at the University of Michigan with a strong foun
 
 ---
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">LinkedIn:</h3>
 <p align="left">
-<a href="https://twitter.com/JustinMLu" target="blank">
-  <i class="devicon-twitter-original" alt="JustinMLu" height="40" width="60"></i>
-</a>
-<a href="https://www.linkedin.com/in/justinmlu" target="blank">
+<a href="https://www.linkedin.com/in/justin-m-lu-cdn" target="blank">
   <i class="devicon-linkedin-plain colored" alt="JustinMLu" height="40" width="60"></i>
 </a>
 </p>
@@ -41,11 +38,11 @@ I'm a Robotics Master's student at the University of Michigan with a strong foun
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JustinMLu&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="JustinMLu"/>
   </a>
 </div>
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/JustinMLu">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=JustinMLu&&theme=tokyonight" alt="JustinMLu" />
   </a>
-</p>
+</p> -->
 
 ---
 
