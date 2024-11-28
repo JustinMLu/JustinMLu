@@ -15,19 +15,6 @@ I'm a Robotics Master's student at the University of Michigan with a strong foun
 
 ---
 
-<h3 align="left">LinkedIn:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/justin-m-lu-cdn" target="blank">
-  <i class="devicon-linkedin-plain colored" alt="JustinMLu" height="40" width="60"></i>
-</a>
-</p>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=JustinMLu&label=Profile%20views&color=0e75b6&style=flat" alt="JustinMLu" />
-</p>
-
----
-
 <h3 align="left">Activity:</h3>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JustinMLu&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
