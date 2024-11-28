@@ -2,7 +2,7 @@
 
 ### Hey, I'm Justin Lu
 
-I'm a Robotics Master's student at the University of Michigan with a strong foundation in computer science and a passion for advancing robotics and AI. With experience in cutting-edge robotics research and software engineering, I specialize in creating innovative solutions that bridge simulation and real-world robotics. Whether developing high-fidelity simulations or fine-tuning algorithms for agile robot control, I aim to make technology smarter, faster, and more impactful. 🌟
+I'm a Robotics Master's student at the University of Michigan with a strong foundation in computer science and a passion for walking robotics. With experience in cutting-edge robotics research and software engineering, I specialize in working with artificla intelligence, simulations and real-world robotics. Whether chipping away at dev work or continuing my work on agile robot control, I aim to make technology smarter, faster, and cooler. After all, it beats doing frontend! 🌟
 
 ---
 
