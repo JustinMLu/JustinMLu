@@ -1,6 +1,6 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
-### Hey, I'm Justin Lu
+### Hey, I'm Justin
 
 I'm a Robotics Master's student at the University of Michigan with a strong foundation in computer science and a passion for walking robotics. With experience in cutting-edge robotics research and software engineering, I specialize in working with artificla intelligence, simulations and real-world robotics. Whether chipping away at dev work or continuing my work on agile robot control, I aim to make technology smarter, faster, and cooler. After all, it beats doing frontend! 🌟
 
