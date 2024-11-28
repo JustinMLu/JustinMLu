@@ -15,9 +15,6 @@ I'm a Robotics Master's student at the University of Michigan with a strong foun
 
 ---
 
-<h3 align="left">Activity:</h3>
-
-
 <div align="center">
   <a href="https://github.com/JustinMLu">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=JustinMLu&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="JustinMLu"/>
