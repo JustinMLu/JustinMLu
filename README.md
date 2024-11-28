@@ -15,21 +15,14 @@ I'm a Robotics Master's student at the University of Michigan with a strong foun
 
 ---
 
-<div align="center">
+<h3 align="left">Languages and Tools:</h3>
+<div align="left">
   <a href="https://github.com/JustinMLu">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=JustinMLu&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="JustinMLu"/>
 <!--     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JustinMLu&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="JustinMLu"/> -->
   </a>
 </div>
-<!-- <p align="center">
-  <a href="https://github.com/JustinMLu">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=JustinMLu&&theme=tokyonight" alt="JustinMLu" />
-  </a>
-</p> -->
 
----
-
-<h3 align="left">Languages and Tools:</h3>
 <table>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Backend:</td>
