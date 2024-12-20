@@ -11,7 +11,7 @@ I'm a Robotics Master's student at the University of Michigan with a strong foun
 - 🛠 **Tech Stack:** Python, C++, MATLAB, ROS, Isaac Sim, Gazebo, TensorFlow, PyTorch, and more!  
 - 🎯 **Goals:** Build high-impact robotics projects, contribute to open-source software, and land a top-tier role at companies like Boston Dynamics, Tesla, or OpenAI.  
 - 💬 **Ask me about:** Robotics simulations, control algorithms, Kalman filters, RL, and any robotics-related math or software engineering challenges.  
-- ⚡ **Fun fact:** My 3D printer (Prusa MK4) is named "Frank" because it builds *monsters* of ideas. 🦾  
+- ⚡ **Fun fact:** I do not code 56% of all my projects in C, as the diagram below will suggest. I accidentally deleted a single gitignore, and here I am. 
 
 ---
 
