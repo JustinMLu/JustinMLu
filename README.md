@@ -2,15 +2,14 @@
 
 # Hey, I'm Justin
 
-I'm a Robotics Master's student at the University of Michigan with a strong foundation in computer science and a passion for walking robotics. With experience in cutting-edge robotics research and software engineering, I specialize in working with artificla intelligence, simulations and real-world robotics. Whether chipping away at dev work or continuing my work on agile robot control, I aim to make technology smarter, faster, and cooler. After all, it beats doing frontend! 🌟
+I'm a Robotics Master's student at the University of Michigan with a BS.E in Computer Science. My work mainly revolves around messing with Reinforcement Learning and legged robots.
 
 ---
 
 - 🔭 **Currently working on:** Reinforcement learning for agile legged robots and vision-based state estimation in Isaac Sim.  
 - 🌱 **Currently learning:** Advanced control theory, ROS2, simulation tools (Gazebo, Isaac Sim), and real-world applications of RL.  
-- 🛠 **Tech Stack:** Python, C++, MATLAB, ROS, Isaac Sim, Gazebo, TensorFlow, PyTorch, and more!  
-- 🎯 **Goals:** Build high-impact robotics projects, contribute to open-source software, and land a top-tier role at companies like Boston Dynamics, Tesla, or OpenAI.  
-- 💬 **Ask me about:** Robotics simulations, control algorithms, Kalman filters, RL, and any robotics-related math or software engineering challenges.  
+- 🛠 **Tech Stack:** Python, C++, MATLAB, ROS, Isaac Sim, Gazebo, TensorFlow, PyTorch, etc.
+- 🎯 **Goals:** Robotics projects, contribute to open-source software, and land a role at companies like Boston Dynamics, Tesla, or OpenAI.  
 - ⚡ **Fun fact:** I do not code 56% of all my projects in C, as the diagram below will suggest. I accidentally deleted a single gitignore, and here I am. 
 
 ---
