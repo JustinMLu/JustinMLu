@@ -1,7 +1,9 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
-# Greetings
+# greetings i am justin
 ---
+- UMich robotics, CSE, and i did discrete math at berkeley hehehehehehe
+
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
