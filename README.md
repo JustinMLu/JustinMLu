@@ -1,17 +1,6 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
-# Hey, I'm Justin
-
-I'm a Robotics Master's student at the University of Michigan with a BS.E in Computer Science. My work mainly revolves around messing with Reinforcement Learning and legged robots.
-
----
-
-- 🔭 **Currently working on:** Reinforcement learning for agile legged robots and vision-based state estimation in Isaac Sim.  
-- 🌱 **Currently learning:** Advanced control theory, ROS2, simulation tools (Gazebo, Isaac Sim), and real-world applications of RL.  
-- 🛠 **Tech Stack:** Python, C++, MATLAB, ROS, Isaac Sim, Gazebo, TensorFlow, PyTorch, etc.
-- 🎯 **Goals:** Robotics projects, contribute to open-source software, and land a role at companies like Boston Dynamics, Tesla, or OpenAI.  
-- ⚡ **Fun fact:** I do not code 56% of all my projects in C, as the diagram below will suggest. I accidentally deleted a single gitignore, and here I am. 
-
+# Greetings
 ---
 
 <h3 align="left">Languages and Tools:</h3>
