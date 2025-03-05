@@ -5,7 +5,7 @@
 - Umich CSE
 
 ---
-# Noob notes (I use these alot):
+<h3 align="left">Noob notes (I use these alot):</h3>
 - nvidia-smi (gpu usage)
 
 - htop (cpu usage and see all processes, do not use rlctrl)
