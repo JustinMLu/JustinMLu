@@ -1,9 +1,9 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
 # Greetings.
----
 - UMich robotics, CSE, and i did discrete math at berkeley heehee
 
+---
 # Noob notes (I use these alot):
 - nvidia-smi (gpu usage)
 
