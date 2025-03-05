@@ -1,8 +1,23 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
-# greetings i am justin
+# Greetings
 ---
-- UMich robotics, CSE, and i did discrete math at berkeley hehehehehehe
+- UMich robotics, CSE, and i did discrete math at berkeley heehee
+
+# Noob notes (I use these alot):
+- nvidia-smi (gpu usage)
+
+- htop (cpu usage and see all processes, do not use rlctrl)
+
+- nautilus . (opens pwd in filesystem)
+
+- github.com/......./compare (super helpful)
+
+- ctrl + \ is core dump quit (mega quit)
+
+- pdb debugger!!!! (until VScode debugger works in my ubuntu)
+
+- VSCode "Git" tab can compare between local saves
 
 
 <h3 align="left">Languages and Tools:</h3>
