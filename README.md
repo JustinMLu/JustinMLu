@@ -1,6 +1,6 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
-# Greetings
+# Greetings.
 ---
 - UMich robotics, CSE, and i did discrete math at berkeley heehee
 
