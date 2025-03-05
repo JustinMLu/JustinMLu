@@ -2,7 +2,7 @@
 
 # Greetings
 - My name is Justin but you can call me Justin
-- UMich CSE -> UMich Robotics
+- UMich CSE + Robotics
 - i did discrete math at berkeley heehee
 
 ---
