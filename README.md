@@ -1,6 +1,7 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
-# Greetings.
+# Greetings
+- My name is Justin but you can call me Justin
 - UMich Robotics MS
 - Umich CSE
 
@@ -20,7 +21,7 @@
 
 - VSCode "Git" tab can compare between local saves
 
-
+---
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
   <a href="https://github.com/JustinMLu">
