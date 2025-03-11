@@ -12,11 +12,13 @@
 
 - nautilus . (opens pwd in filesystem)
 
-- github.com/......./compare (super helpful)
+- github.com/......./compare (extremely useful on web)
 
 - ctrl + \ is core dump quit (mega quit)
 
-- pdb debugger!!!! (until VScode debugger works in my ubuntu)
+- pdb debugger works basically the same as gdb
+
+- FIX vscode debugger
 
 - VSCode "Git" tab can compare between local saves
 
