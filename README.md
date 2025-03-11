@@ -3,7 +3,6 @@
 # Greetings
 - My name is Justin but you can call me Justin
 - UMich CSE + Robotics
-- i did discrete math at berkeley heehee
 
 ---
 <h3 align="left">Noob notes (I use these alot):</h3>
