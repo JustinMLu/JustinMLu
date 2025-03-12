@@ -5,6 +5,7 @@
 - UMich CSE + Robotics
 
 ---
+
 <h3 align="left">Noob notes (for my own convenience):</h3>
 - nvidia-smi (gpu usage)
 
@@ -23,13 +24,6 @@
 - VSCode "Git" tab can compare between local saves
 
 ---
-<h3 align="left">Languages and Tools:</h3>
-<div align="left">
-  <a href="https://github.com/JustinMLu">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=JustinMLu&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="JustinMLu"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JustinMLu&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="JustinMLu"/>
-  </a>
-</div>
 
 <table>
     <tr>
