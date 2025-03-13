@@ -29,5 +29,5 @@
 - VSCode "Git" tab can compare between local saves
 
 ---
-[![Justin's GitHub stats](https://github-readme-stats.vercel.app/api?username=JustinMLu)](https://github.com/JustinMLu/github-readme-stats&theme=onedark)
+[![Justin's GitHub stats](https://github-readme-stats.vercel.app/api?username=JustinMLu)](https://github.com/JustinMLu/github-readme-stats&theme=onedark&show_icons=true)
 ---
