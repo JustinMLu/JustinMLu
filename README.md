@@ -2,14 +2,12 @@
 
 # Greetings
 
+<img src="https://github.com/user-attachments/assets/5fb63449-d58e-4291-b2f6-56d16b35b7c9" alt="doggy woggy" width="800" />
+
 ---
 
 - My name is Justin but you can call me Justin
 - UMich CSE + Robotics
-
----
-
-<img src="https://github.com/user-attachments/assets/5fb63449-d58e-4291-b2f6-56d16b35b7c9" alt="doggy woggy" width="800" />
 
 ---
 
