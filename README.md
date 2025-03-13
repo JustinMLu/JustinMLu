@@ -2,7 +2,7 @@
 
 # Greetings
 
-<img src="https://github.com/user-attachments/assets/5fb63449-d58e-4291-b2f6-56d16b35b7c9" alt="doggy woggy" width="800" />
+<img src="https://github.com/user-attachments/assets/2fdd8010-cb63-4964-b964-c98a7270bb51" alt="doggy woggy" width="800" />
 
 ---
 
