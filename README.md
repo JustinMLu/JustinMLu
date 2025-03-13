@@ -3,7 +3,7 @@
 # Greetings
 - My name is Justin but you can call me Justin
 - UMich CSE + Robotics
-
+[![Justin's GitHub stats](https://github-readme-stats.vercel.app/api?username=JustinMLu)](https://github.com/JustinMLu/github-readme-stats&theme=monokai)
 ---
 
 <h3 align="left">Noob notes (for my own convenience):</h3>
@@ -24,7 +24,5 @@
 - VSCode "Git" tab can compare between local saves
 
 ---
-
-[![Justin's GitHub stats](https://github-readme-stats.vercel.app/api?username=JustinMLu)](https://github.com/JustinMLu/github-readme-stats)
-
+![running_wavefieldonline-video-cutter com-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/5fb63449-d58e-4291-b2f6-56d16b35b7c9)
 ---
