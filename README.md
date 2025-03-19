@@ -1,6 +1,6 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
-<img src="https://github.com/user-attachments/assets/2fdd8010-cb63-4964-b964-c98a7270bb51" alt="doggy woggy" width="300" />
+<img src="https://github.com/user-attachments/assets/2fdd8010-cb63-4964-b964-c98a7270bb51" alt="doggy woggy" width="400" />
 
 # Greetings
 
