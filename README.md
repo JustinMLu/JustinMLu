@@ -4,8 +4,7 @@
 
 # Greetings
 
-- My name is Justin but you can call me Justin
-- UMich CSE + Robotics
+## My name is Justin but you can call me Justin
 
 ---
 
